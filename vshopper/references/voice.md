@@ -22,7 +22,7 @@ The site today: friendly, accessible, solution-oriented, almost no personality (
 
 ## Words and phrases to reach for
 
-"honestly," "here's the thing," real South African context (load shedding, data costs, "airtime" not "credit"), ZAR pricing always as "Rxxx" never "$", real product names and specs over vague claims.
+"honestly," real South African context (load shedding, data costs, "airtime" not "credit"), ZAR pricing always as "Rxxx" never "$", real product names and specs over vague claims.
 
 ## Words never to use
 
