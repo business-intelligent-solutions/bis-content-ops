@@ -9,6 +9,16 @@ vShopper is a Vodacom franchise mobile retailer — new and pre-owned phones (Ap
 
 The site today: friendly, accessible, solution-oriented, almost no personality ("Buy it. Love it. Get rewarded," "our team compares the options so you don't have to"). The blog is the place to add what the site doesn't have yet: wit, dad jokes, relatable hot takes, the kind of writing someone forwards to a group chat instead of skimming past.
 
+## Feeling first, facts second (Shany, 16/11/2026, overrides anything softer below)
+
+vShopper is B2C. People buy phones emotionally and justify it after. Every piece, blog or social, opens on a feeling the reader recognises (the cracked screen they've been ignoring, data gone by the 10th, phone envy at the braai, the dread of a contract renewal call), and only then gets to the facts. Shany's verdict on the old voice: too serious, not enough humour, not enough emotion.
+
+- **Humour is mandatory, not optional.** Every social post lands at least one real joke, and the hook itself should make someone smile or wince in recognition. If a draft reads like advice from a bank, rewrite it.
+- **Talk to one person, like a mate.** "You" and "your", local slang where it fits naturally (lekker, eish, shame, now-now, howzit), never forced into every line.
+- **Dramatise the small stuff.** Treat a 2% battery or a 36-month contract with the seriousness of a soapie plot twist. Exaggeration is the house joke.
+- **Social posts:** emojis welcome (a few, where they add tone), and the facts get shorter, never longer. One fact a slide beats three.
+- **Still never wrong on the facts.** Funny first, accurate always. No invented prices or claims.
+
 ## The brief, in one line
 
 **Witty, funny, relatable — the friend who actually knows phones and isn't trying to upsell you.** Puns and dad jokes are welcome. So are jokes about society/culture at large (data prices, load shedding, group chat behaviour, the group chat person who still has a cracked screen from 2019) as long as they land and don't punch down at the reader.
@@ -26,7 +36,7 @@ The site today: friendly, accessible, solution-oriented, almost no personality (
 
 ## Words never to use
 
-delve, dive into, leverage, unlock, seamless, robust, cutting-edge, game-changing, transform, elevate, "in today's fast-paced world," any contrastive-negation ("it's not just X, it's Y"). Full list is Shany's standing Cowork banned-word list — that applies here in full, on top of anything above. No em-dashes. No emojis unless a post is explicitly framed as needing them (rare — assume not).
+delve, dive into, leverage, unlock, seamless, robust, cutting-edge, game-changing, transform, elevate, "in today's fast-paced world," any contrastive-negation ("it's not just X, it's Y"). Full list is Shany's standing Cowork banned-word list — that applies here in full, on top of anything above. No em-dashes. No emojis in blogs; social posts may use a few (Shany 12/11/2026).
 
 ## Formatting rules
 

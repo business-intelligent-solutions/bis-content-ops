@@ -17,7 +17,7 @@ The friend in the group chat who actually knows phones, gets asked "which one sh
 ## Anti-patterns
 
 - Exclamation marks — the joke should land deadpan, not need punctuation to sell it
-- Emojis
+- Emojis in blogs (social posts may use a few, Shany 12/11/2026)
 - Outdated meme references
 - Forced quirk — if a joke isn't actually funny, cut it rather than leave a weak one in
 - Making fun of the customer's situation (old phone, tight budget, confused about contracts) — that's the opposite of the "friend who helps" voice
